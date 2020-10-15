@@ -1,5 +1,8 @@
 <template>
-  <router-view></router-view>
+  <div>
+    <!-- 头部 -->
+    <hm-header>注册</hm-header>
+  </div>
 </template>
 
 <script>
